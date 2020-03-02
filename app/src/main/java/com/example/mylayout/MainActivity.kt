@@ -11,8 +11,8 @@ class MainActivity : AppCompatActivity() {
         //setContentView(R.layout.activity_main)
         //setContentView(R.layout.linear_layout)
         //setContentView(R.layout.relative_layout)
-        //setContentView(R.layout.constraint_testone)
-        setContentView(R.layout.constraint_testtwo)
+        setContentView(R.layout.constraint_testone)
+        //setContentView(R.layout.constraint_testtwo)
 
 
     }
