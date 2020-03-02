@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="30dp"
-        android:text="Tony Stark"
+        android:text="Ye Min Thu"
         android:textSize="27dp"
         android:textStyle="bold"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -19,10 +19,10 @@
 
     <ImageView
         android:id="@+id/imgv1"
-        android:layout_width="30dp"
-        android:layout_height="30dp"
-        android:layout_marginLeft="30dp"
-        android:layout_marginTop="5dp"
+        android:layout_width="20dp"
+        android:layout_height="22dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
         android:background="@drawable/gpsicon"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv1"
@@ -33,7 +33,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="Los Angles,CA"
+        android:text="Yangon, MYA"
         android:textSize="18dp"
         app:layout_constraintLeft_toRightOf="@+id/imgv1"
         app:layout_constraintTop_toBottomOf="@+id/tv1" />
